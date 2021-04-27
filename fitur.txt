@@ -2,5 +2,8 @@ Menambah Fitur
 - HTML
 - CSS
 - JavaScript
+ * Vue
+ * React
 - PHP
   * Laravel
+- Database
