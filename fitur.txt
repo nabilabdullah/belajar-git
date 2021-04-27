@@ -1,5 +1,4 @@
 Menambah Fitur
-- HTML
 - CSS
 - JavaScript
  * Vue
