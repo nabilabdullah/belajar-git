@@ -1,6 +1,7 @@
 Menambah Fitur
-- HTML
 - CSS
 - JavaScript
+ * Angular
+ * Vue
 - PHP
   * Laravel
